@@ -1,1 +1,1 @@
-"Simple contacts application written in Java/Fxml" 
+Simple contacts application written in Java/Fxml
